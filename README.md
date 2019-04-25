@@ -1,2 +1,2 @@
 # Batch
-A Batch forge
+The Batch Forge
